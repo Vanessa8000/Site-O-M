@@ -1,0 +1,20 @@
+.conteiner{
+    width: 1800px;
+    margin: auto;
+}
+.conteiner img{
+    width: 100%;
+}
+.conteiner .centro{
+    width: 800px;
+}
+
+.centro{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transition: translate (-50%,-50% );
+    text-align: center;
+    background-color: bisque;
+    padding: 10px;
+}
