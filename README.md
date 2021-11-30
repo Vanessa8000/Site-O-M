@@ -1,2 +1,2 @@
 # Site-O&M
- Projeto feito com HTML, CSS e JS
+ Projeto feito com HTML e CSS
